@@ -11,3 +11,4 @@ Pasos para ejecutar proyecto:
 
 1. Ejucutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
+3. Día 20/08/2024 solucionado error q algunas carta no se mostraban.
